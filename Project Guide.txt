@@ -1,0 +1,5 @@
+Source
+https://www.kaggle.com/code/sarmaz/global-food-prices-data-analysis-and-visualize/data
+
+Project
+In this project, you will perform EDA, visualize and make calculations from African food prices data using matplotlib, seaborn, and pandas. The dataset values were obtained from the Source above.

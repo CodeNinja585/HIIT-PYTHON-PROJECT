@@ -1,0 +1,29 @@
+With the dataset you have, here are some EDA (Exploratory Data Analysis) and calculations you can perform:
+
+1. **Explore the distribution of prices**:
+   - Create a histogram or density plot to visualize the distribution of prices across the dataset.
+   - Calculate summary statistics like mean, median, standard deviation, min, and max of the prices.
+
+2. **Analyze price trends over time**:
+   - Group the data by year and/or month, and calculate the average price for each time period.
+   - Visualize the price trends over time using a line plot or bar plot.
+   - Identify any seasonality or patterns in the price movements.
+
+3. **Investigate price differences across countries, states, and markets**:
+   - Group the data by country, state, and/or market, and calculate the average price for each group.
+   - Use box plots or bar plots to compare the price distributions across different geographical entities.
+   - Identify the highest and lowest priced countries, states, or markets.
+
+4. **Explore relationships between variables**:
+   - Analyze the correlation between price and other numeric variables like quantity.
+   - Create scatter plots to visualize the relationships between price and other features.
+   - Investigate how factors like currency, market type, or commodity source affect prices.
+
+5. **Calculate price change percentages**:
+   - Calculate the percent change in price between consecutive time periods (e.g., month-over-month or year-over-year).
+   - Visualize the price change percentages using a line plot or bar plot.
+   - Identify the products or markets with the highest and lowest price changes.
+
+6. **Perform market basket analysis**:
+   - Analyze the co-occurrence of different produce items in the dataset.
+   - Identify any notable associations or patterns between the types of produce sold together.
